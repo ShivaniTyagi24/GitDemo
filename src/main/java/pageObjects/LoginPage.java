@@ -48,6 +48,10 @@ public ForgotPassword forgotPassword()
 		return driver.findElement(login);
 	}
 	
-	
+	public void display()
+	{
+		System.out.println("TEst commit in git hub");
+		System.out.println("commit firt time");
+	}
 	
 }
